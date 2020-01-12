@@ -9,14 +9,14 @@
   <p align="center">
     An attendance manager that provides a smart and efficient way for students to keep track of their attendance.
     <br />
-    <a href="https://github.com/SakshiUppoor/jiffy-attendance-tracker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SiddhiJhunjhunwala/jiffy-attendance-tracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="http://jiffy-attendance-tracker.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/SakshiUppoor/jiffy-attendance-tracker/issues">Report Bug</a>
+    <a href="https://github.com/SiddhiJhunjhunwala/jiffy-attendance-tracker/issues">Report Bug</a>
     ·
-    <a href="https://github.com/SakshiUppoor/jiffy-attendance-tracker/issues">Request Feature</a>
+    <a href="https://github.com/SiddhiJhunjhunwala/jiffy-attendance-tracker/issues">Request Feature</a>
   </p>
 </p>
 
